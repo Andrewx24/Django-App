@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/andreaaliaj/Desktop/2024 coding/PY WEB SCRAPPER/.venv/bin/python3.12" "$0" "$@"
+'''exec' "/Users/andreaaliaj/Desktop/2024 coding/UNSCRIPTED CODER/Django-App/.venv/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
